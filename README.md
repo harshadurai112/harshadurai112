@@ -13,6 +13,13 @@ Aspiring Software Developer skilled in Java, C++, Python, Node.js, and full-stac
 - Focused on continuous learning and collaboration
 
 ---
+## 🔥 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshadurai112&show_icons=true&theme=radical&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadurai112&layout=compact&theme=radical&border_radius=10" width="48%"/>
+</p>
+
 
 ## Projects
 
